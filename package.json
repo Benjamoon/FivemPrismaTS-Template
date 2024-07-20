@@ -1,0 +1,15 @@
+{
+  "name": "core",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@citizenfx/client": "^2.0.8981-1",
+    "@citizenfx/server": "^2.0.8981-1"
+  }
+}
